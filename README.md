@@ -71,3 +71,5 @@ cd backend
 .\venv\Scripts\Activate.ps1
 pytest
 ```
+
+<!-- Updated by Design Lead -->
